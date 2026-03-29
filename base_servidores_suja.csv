@@ -1,0 +1,7 @@
+id_servidor;data_nascimento;orgao_origem;salario_bruto
+S01;10/05/1980;SAP;R$ 5.000,00
+ S02;15/01/1982;SAUDE;6000.00
+S03 ;01-20-1985;sap;4500,5
+S01;; Infra;5000
+S04;10/03/1990;RH;7100.20
+S05;01/01/2000;saude ;np.nan
