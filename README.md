@@ -17,7 +17,7 @@ Exportação para um formato otimizado (Parquet).
 
 Tecnologias: Python, Pandas.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Projeto 2: O "Data Integrator" (SQL/Python)
 Objetivo: Mostrar como unir bases de fontes diferentes (ex: RH e Financeiro) para criar uma visão única.
 
